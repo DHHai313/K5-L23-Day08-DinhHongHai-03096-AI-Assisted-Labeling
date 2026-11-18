@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,03096,cac doi tuong ro va om sat
+img_006.jpg,,khong,03096,khong phat hien loi lon
+img_014.jpg,,khong,03096,chat luong on
+img_031.jpg,#1,sai_vi_tri_kich_thuoc,03096,box bi rong ho vien do dinh bay loose bi lot
+img_035.jpg,#2,sai_lop,03096,xe ba banh bi gan sai thanh car do dinh bay wrong_class bi lot

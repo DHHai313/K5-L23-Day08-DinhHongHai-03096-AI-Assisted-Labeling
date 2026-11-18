@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L23
 - Tài khoản GitHub: DHHai313
 - Repo bài nộp (URL): https://github.com/DHHai313/K5-L23-Day08-DinhHongHai-03096-AI-Assisted-Labeling
-- Commit chốt bài (hash): b769452 (và commit hoàn thiện cuối cùng)
+- Commit chốt bài (hash): c24f2a6 (và commit hoàn thiện cuối cùng)
 - Máy: Windows 11, GPU NVIDIA GeForce RTX 2050 (4GB) (chạy CPU cho prelabel)
 - CVAT (Docker): v2.81.0
 
